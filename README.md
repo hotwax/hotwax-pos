@@ -1,0 +1,2 @@
+# hotwax-pos
+Hotwax POS
